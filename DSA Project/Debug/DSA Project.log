@@ -1,0 +1,9 @@
+﻿  Tests.cpp
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(35,28): warning C4305:  'argument': truncation from 'double' to 'const float'
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(36,26): warning C4305:  'argument': truncation from 'double' to 'const float'
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(37,27): warning C4305:  'argument': truncation from 'double' to 'const float'
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(39,28): warning C4305:  'argument': truncation from 'double' to 'const float'
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(41,25): warning C4305:  'argument': truncation from 'double' to 'const float'
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(51,27): warning C4305:  'argument': truncation from 'double' to 'const float'
+C:\Users\Codrin\source\repos\DSA Project\Tests.cpp(53,25): warning C4305:  'argument': truncation from 'double' to 'const float'
+  DSA Project.vcxproj -> C:\Users\Codrin\source\repos\DSA Project\Debug\DSA Project.exe
